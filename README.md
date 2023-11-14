@@ -1,2 +1,2 @@
 # andriod
-start from this andriod journey with all latest update packages 
+start from this android journey with all the latest update packages
